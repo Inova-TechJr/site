@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  letter-spacing: 1px;
+}
+
+:root {
+  --white: #FFFFFF;
+  --primary: #57843B;
+  --text: #333333;
+}
+
+body {
+  font-family: 'Unica One', cursive;
+  color: var(--text);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  font-family: 'Unica One', cursive;
+}
+
